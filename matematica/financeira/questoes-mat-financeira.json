@@ -1,0 +1,16 @@
+[
+    {
+        "banca": "FCC",
+        "concurso": "TRE/SP",
+        "ano": 2017,
+        "pergunta": "Demitido da empresa em que trabalhava, o senhor Felizardo investiu a indenização recebida no Banco Regional da Fazenda. O valor a ser resgatado, após oito meses de aplicação, é de R$ 210.000. Considerando-se que a taxa de juros simples é de 5% ao mês, o valor da aplicação, em reais, foi de:",
+        "respostas": [
+            {"a":"140.000"},
+            {"b":"170.000"},
+            {"c":"60.000"},
+            {"d":"96.000"},
+            {"e":"150.000"}
+        ],
+        "resposta_correta": "e"
+    }
+]
